@@ -11,7 +11,7 @@ module.exports = {
     BASE_URL : "https://thoughtful-alvera-igpvdr-2dc99e5b.koyeb.app/",
     PROVIDER_URL: "https://indirect-rosamund-inrl-bot-3c87e07a.koyeb.app",
     AUTH: {
-        token: "K2E0s2Actc8oDc9wDaRpEW9yuW8oOqRpOqH3O1SEO19wrdkOu1EBseQQIUSJuYAJsn=",
+        token: "K2E0s2Actc8oEW9wDaRpEW9yuW8oDc80D18pDM9SKM9wO01eJUy6Q2ylNOQercM2EYD",
     },
     PREFIX: '.',
     SUDO: '',
